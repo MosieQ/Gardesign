@@ -416,6 +416,7 @@ h6,
 }
 #menu-3 .navbar-caption {
   color: #ffffff;
+  font-size: 36px;
 }
 #menu-3 .navbar-toggler {
   color: #ffffff;
@@ -474,12 +475,19 @@ h6,
 }
 #header2-1 .mbr-section-text {
   text-align: center;
+  font-size: 22px;
 }
 #header2-1 .mbr-section-title {
   text-align: center;
+  font-size: 60px;
 }
 #msg-box4-0 H3 {
   text-align: center;
+  font-size: 60px;
+}
+#msg-box4-0 P {
+  text-align: center;
+  font-size: 22px;
 }
 #form1-2 .form-control-label {
   color: #232323;
