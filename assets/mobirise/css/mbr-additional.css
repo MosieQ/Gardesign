@@ -479,7 +479,7 @@ h6,
 }
 #header2-1 .mbr-section-title {
   text-align: center;
-  font-size: 60px;
+  font-size: 80px;
 }
 #msg-box4-0 H3 {
   text-align: center;
@@ -488,6 +488,14 @@ h6,
 #msg-box4-0 P {
   text-align: center;
   font-size: 22px;
+}
+#header2-6 .mbr-section-title {
+  text-align: right;
+  color: #ffffff;
+  font-size: 60px;
+}
+#header2-6 .mbr-section-text {
+  font-size: 18px;
 }
 #form1-2 .form-control-label {
   color: #232323;
