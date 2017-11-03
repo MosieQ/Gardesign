@@ -158,7 +158,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/kfiatki-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lawka-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -176,7 +176,7 @@
             }
           },
           "title": "GARDESIGN.PL",
-          "text": "Twój własny ogród marzeń",
+          "text": "Twój ogród marzeń",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -282,7 +282,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lopata-1400x927.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kosiarka-1400x929.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -337,81 +337,88 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "tags": "Beautiful",
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
