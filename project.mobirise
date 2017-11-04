@@ -25,11 +25,12 @@
         "#9e845b",
         "#bfa06e",
         "#1a1919",
-        "#121111"
+        "#121111",
+        "#d7b57d"
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 12,
+    "uniqCompNum": 14,
     "versionPublish": "4.4.0",
     "favicon": "",
     "noImageResize": "",
@@ -433,7 +434,7 @@
         {
           "_params": {
             "googleMap": {
-              "address": "ul. Wolności 48, 30-661 Kraków, Polska",
+              "address": "ul. Wolności 48/1A, 30-661 Kraków, Polska",
               "placeId": "EiRXb2xub8WbY2kgNDgsIDMwLTY2MSBLcmFrw7N3LCBQb2xza2E",
               "state": "ok",
               "stateDetails": ""
@@ -533,17 +534,21 @@
               "size": 0
             }
           },
-          "text1": "<strong><a href=\"index.html#map2-5\">Adres</a></strong><br>ul. Wolności 48/1A<br>30-661, Kraków",
-          "text2": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><br></b></span></font><br>\nEmail: kontakt@gardesign.pl<br>\nPhone: +48 694-124-892<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+48 604-915-218<br></p>",
-          "text3": "<strong>Menu:</strong><br><a href=\"#top\">Strona Główna</a><br>O Nas<br>Usługi<br><a href=\"index.html#gallery3-b\">Galeria</a>",
+          "text1": "<strong><a href=\"index.html#map2-5\">Adres:</a></strong><br>ul. Wolności 48/1A<br>30-661, Kraków",
+          "text2": "<p><strong>Kontakt:</strong><br>\nEmail: kontakt@gardesign.pl<br>\n&nbsp;&nbsp;&nbsp;&nbsp;Tel:&nbsp;&nbsp;+48 694-124-892<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +48 604-915-218<br></p>",
+          "text3": "<strong>Menu:</strong><br>\n<a class=\"text-primary\" href=\"#top\">Strona główna</a><br>O Nas<br>Usługi<br><a href=\"index.html#gallery3-b\">Galeria</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-a",
+          "_anchor": "contacts1-d",
           "_styles": {
+            "STRONG": {
+              "color": "#d7b57d"
+            },
             "P": {
-              "color": "#c0a375"
+              "text-align": "left",
+              "color": "#bfa06e"
             }
           }
         }

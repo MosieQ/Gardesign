@@ -501,6 +501,10 @@ h6,
 #form1-2 .form-control-label {
   color: #232323;
 }
-#contacts1-a P {
-  color: #c0a375;
+#contacts1-d STRONG {
+  color: #d7b57d;
+}
+#contacts1-d P {
+  text-align: left;
+  color: #bfa06e;
 }
