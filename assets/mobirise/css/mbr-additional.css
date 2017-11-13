@@ -475,7 +475,7 @@ h6,
 }
 #header2-1 .mbr-section-text {
   text-align: center;
-  font-size: 22px;
+  font-size: 25px;
 }
 #header2-1 .mbr-section-title {
   text-align: center;
@@ -489,13 +489,26 @@ h6,
   color: #000000;
   font-size: 60px;
 }
+#features3-l H4 {
+  color: #ffffff;
+  font-size: 36px;
+}
+#features3-l P {
+  color: #ffffff;
+  font-size: 25px;
+}
 #header2-6 .mbr-section-title {
   text-align: center;
-  color: #ffffff;
+  color: #000000;
   font-size: 60px;
 }
 #header2-6 .mbr-section-text {
   font-size: 18px;
+  text-align: center;
+  color: #000000;
+}
+#header3-g .mbr-section-title,
+#header3-g .mbr-section-subtitle {
   text-align: center;
 }
 #form1-2 .form-control-label {
