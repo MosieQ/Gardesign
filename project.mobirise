@@ -41,8 +41,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Gardesign.pl",
+        "meta_descr": "Twój ogród marzeń.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -281,18 +281,24 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/23584798-886005564899532-1247155046-n-455x455.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/23600210-886000734900015-2029667353-o-467x458.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
@@ -329,10 +335,10 @@
           },
           "title1": "Izabela Gawlik",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Technik Ogrodnik",
+          "caption1": "Dyrektor ds. artystycznych",
           "title2": "Hubert Mosz",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Pasjonat Ogrodnictwa",
+          "caption2": "Dyrekor ds. technicznych",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
