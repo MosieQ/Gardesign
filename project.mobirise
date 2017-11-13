@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Gardesign",
+    "name": "Gardesign.pl",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -30,9 +30,9 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 22,
+    "uniqCompNum": 24,
     "versionPublish": "4.4.0",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/azalia-128x155.png",
     "noImageResize": "",
     "cookiesAlert": "Strona używa ciasteczek. 'Polityka cookies'",
     "google-analytics": ""
@@ -55,7 +55,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "36px"
+              "font-size": "46px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -67,10 +67,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -99,19 +99,19 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
             "bgColor": "#1a1919",
-            "fontSize": 0.75,
+            "fontSize": "1.15",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-e\">O NAS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-6\" aria-expanded=\"true\">USŁUGI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery3-b\" aria-expanded=\"false\">GALERIA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://www.pse2u.com/\">Napisz do Nas!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-e\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-6\" aria-expanded=\"false\">USŁUGI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery3-b\" aria-expanded=\"false\">GALERIA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://www.pse2u.com/\">Napisz do Nas!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -153,7 +153,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
@@ -275,9 +275,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.4"
           },
           "media1": {
             "image": {
@@ -416,7 +416,7 @@
             }
           },
           "title": "USŁUGI",
-          "text": "Kompleksowe uslugi ogrodnicze świaczone przez firmę GARDEsigN skierowane są do osób prywatnych oraz firm, chcących zadbać o obszary zieleni wokół domu czy biura, lub przykładowo na terenach miejskich.",
+          "text": "Kompleksowe uslugi ogrodnicze świaczone przez firmę Gardesign skierowane są do osób prywatnych oraz firm, chcących zadbać o obszary zieleni wokół domu czy biura, lub przykładowo na terenach miejskich.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Czytaj dalej...</a>",
           "_tags": [
             "Theme"
@@ -831,15 +831,15 @@
           "subtitle": "Służymy Naszą wiedzą i doświadczeniem",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">WYŚLIJ</a>",
           "form": {
-            "action": "hixdlol@onet.pl",
+            "action": "hubert@mosz.pl",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Dziękujemy za kontakt,\nZ chęcią zapoznamy się z Państwa wiadomością."
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Imię*"
               },
               "email": {
                 "visible": true,
@@ -849,11 +849,11 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "Tel."
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Wiadomość"
               }
             }
           },
