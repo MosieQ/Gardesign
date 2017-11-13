@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 15,
+    "uniqCompNum": 16,
     "versionPublish": "4.4.0",
     "favicon": "",
     "noImageResize": "",
@@ -220,7 +220,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/stocksnap-16oqmg8qfo-1400x787.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -236,7 +239,7 @@
           },
           "title": "O NAS",
           "text": "Nasza firma to młody, energiczny zespół, dla którego każdy ogród jest nowym wyzwaniem, do którego podchodzimy indywidualnie, z pasją i przeświadczeniem o sukcesie. Posiadamy szeroką wiedzę w zakresie zakładania, renowacji, pielęgnacji i ochrony ogrodów przydomowych. .",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Czytaj dalej...</a>",
           "_tags": [
             "Theme"
           ],
@@ -297,7 +300,7 @@
           },
           "title": "USŁUGI",
           "text": "Kompleksowe uslugi ogrodnicze świaczone przez firmę GARDEsigN skierowane są do osób prywatnych oraz firm, chcących zadbać o obszary zieleni wokół domu, siedziby firmy, a także przykładowo na terenach miejskich.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Czytaj dalej</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Czytaj dalej...</a>",
           "_tags": [
             "Theme"
           ],
@@ -434,8 +437,8 @@
               "state": "ok",
               "stateDetails": ""
             },
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgColor": "#ffffff"
           },
           "_tags": [
@@ -449,16 +452,16 @@
             "showTitle": true,
             "showSubTitle": true,
             "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1622x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#efefef",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.3"
           },
           "title": "Napisz do Nas!",
           "subtitle": "Służymy Naszą wiedzą i doświadczeniem",
@@ -498,13 +501,50 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#1a1919",
+              "font-size": "21px"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
             }
           }
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "Podaj dalej ^^",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-f",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -539,11 +579,13 @@
           "_anchor": "contacts1-d",
           "_styles": {
             "STRONG": {
-              "color": "#d7b57d"
+              "color": "#d7b57d",
+              "font-size": "22px"
             },
             "P": {
               "text-align": "left",
-              "color": "#bfa06e"
+              "color": "#bfa06e",
+              "font-size": "18px"
             }
           }
         }

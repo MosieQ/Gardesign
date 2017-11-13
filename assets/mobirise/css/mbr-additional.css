@@ -501,10 +501,22 @@ h6,
 #form1-2 .form-control-label {
   color: #232323;
 }
+#form1-2 SMALL {
+  color: #1a1919;
+  font-size: 21px;
+}
+#form1-2 .mbr-section-title {
+  font-size: 60px;
+}
+#social-buttons1-f .mbr-section-title {
+  font-size: 48px;
+}
 #contacts1-d STRONG {
   color: #d7b57d;
+  font-size: 22px;
 }
 #contacts1-d P {
   text-align: left;
   color: #bfa06e;
+  font-size: 18px;
 }
