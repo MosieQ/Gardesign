@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 24,
+    "uniqCompNum": 26,
     "versionPublish": "4.4.0",
     "favicon": "@PROJECT_PATH@/assets/images/azalia-128x155.png",
     "noImageResize": "",
@@ -55,7 +55,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "46px"
+              "font-size": "36px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -67,10 +67,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -106,12 +106,12 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#1a1919",
-            "fontSize": "1.15",
+            "fontSize": "1.05",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-e\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-6\" aria-expanded=\"false\">USŁUGI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery3-b\" aria-expanded=\"false\">GALERIA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://www.pse2u.com/\">Napisz do Nas!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-e\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-6\" aria-expanded=\"false\">USŁUGI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery3-b\" aria-expanded=\"false\">GALERIA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts1-d\">Napisz do Nas!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -176,7 +176,7 @@
               "size": 250
             }
           },
-          "title": "GARDESIGN.PL",
+          "title": "GARDESIGN",
           "text": "Twój ogród marzeń",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -338,7 +338,7 @@
           "caption1": "Dyrektor ds. artystycznych",
           "title2": "Hubert Mosz",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Dyrekor ds. technicznych",
+          "caption2": "Dyrektor ds. technicznych",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -416,7 +416,7 @@
             }
           },
           "title": "USŁUGI",
-          "text": "Kompleksowe uslugi ogrodnicze świaczone przez firmę Gardesign skierowane są do osób prywatnych oraz firm, chcących zadbać o obszary zieleni wokół domu czy biura, lub przykładowo na terenach miejskich.",
+          "text": "Kompleksowe usługi ogrodnicze świaczone przez firmę Gardesign skierowane są do osób prywatnych oraz firm, chcących zadbać o obszary zieleni wokół domu czy biura, czy przykładowo na terenach miejskich.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Czytaj dalej...</a>",
           "_tags": [
             "Theme"
@@ -680,8 +680,52 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/23599904-1712665068798424-851587273-o-1202x805.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23599904-1712665068798424-851587273-o-1202x805-800x535.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/bellingrath-gardens-alabama-landscape-scenic-158028-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bellingrath-gardens-alabama-landscape-scenic-158028-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/23600931-1712664495465148-118845526-o-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23600931-1712664495465148-118845526-o-1920x1080-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/23584977-1712664882131776-167513024-o-1202x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23584977-1712664882131776-167513024-o-1202x800-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/23627160-1712666502131614-480479375-o-998x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23627160-1712666502131614-480479375-o-998x800-800x641.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -702,8 +746,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rose-2721846-1920-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rose-2721846-1920-1920x1280-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -713,52 +757,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-2454955-1920-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-2454955-1920-1920x1280-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
@@ -920,17 +920,20 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/azalia-105x127.jpg",
+              "src": "@PROJECT_PATH@/assets/images/birds2-81x100.png",
               "width": 128,
-              "active": true,
               "link": "",
               "alt": "",
               "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "mobirise-icons-bold",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "text1": "<strong><a href=\"index.html#map2-5\">Adres:</a></strong><br>ul. Wolności 48/1A<br>30-661, Kraków",
@@ -952,6 +955,26 @@
               "font-size": "18px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Gardesign.pl.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-o"
         }
       ]
     }
