@@ -191,7 +191,7 @@
             },
             ".mbr-section-title": {
               "text-align": "center",
-              "font-size": "80px"
+              "font-size": "100px"
             }
           }
         },
@@ -839,21 +839,21 @@
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Imię*"
+                "customTitle": "Imię*:"
               },
               "email": {
                 "visible": true,
                 "title": "Email",
-                "customTitle": "Email*"
+                "customTitle": "Email*:"
               },
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Tel."
+                "customTitle": "Tel.:"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Wiadomość"
+                "customTitle": "Wiadomość:"
               }
             }
           },
