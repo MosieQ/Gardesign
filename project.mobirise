@@ -34,7 +34,7 @@
     "versionPublish": "4.4.0",
     "favicon": "@PROJECT_PATH@/assets/images/azalia-128x155.png",
     "noImageResize": "",
-    "cookiesAlert": "Strona używa ciasteczek. 'Polityka cookies'",
+    "cookiesAlert": "Ta strona korzysta z ciasteczek, aby świadczyć usługi na najwyższym poziomie. Dalsze korzystanie ze strony oznacza, że zgadzasz się na ich użycie.",
     "google-analytics": ""
   },
   "pages": {
