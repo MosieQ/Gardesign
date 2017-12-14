@@ -187,7 +187,7 @@
           "_styles": {
             ".mbr-section-text": {
               "text-align": "center",
-              "font-size": "25px"
+              "font-size": "30px"
             },
             ".mbr-section-title": {
               "text-align": "center",
@@ -248,11 +248,11 @@
           "_styles": {
             ".mbr-section-text": {
               "color": "#000000",
-              "font-size": "18px"
+              "font-size": "21px"
             },
             ".mbr-section-title": {
               "color": "#000000",
-              "font-size": "60px"
+              "font-size": "72px"
             }
           }
         },
@@ -365,7 +365,7 @@
           "_styles": {
             "H4": {
               "color": "#ffffff",
-              "font-size": "36px"
+              "font-size": "46px"
             },
             "P": {
               "color": "#ffffff",
@@ -379,7 +379,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "showArrow": true,
+            "showArrow": false,
             "imageSize": "43",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1622x1080.jpg",
@@ -427,10 +427,10 @@
             ".mbr-section-title": {
               "text-align": "center",
               "color": "#000000",
-              "font-size": "60px"
+              "font-size": "72px"
             },
             ".mbr-section-text": {
-              "font-size": "18px",
+              "font-size": "21px",
               "text-align": "center",
               "color": "#000000"
             }
@@ -547,7 +547,12 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-j"
+          "_anchor": "features3-j",
+          "_styles": {
+            "H4": {
+              "font-size": "23px"
+            }
+          }
         },
         {
           "_params": {
@@ -660,7 +665,12 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-k"
+          "_anchor": "features3-k",
+          "_styles": {
+            "H4": {
+              "font-size": "23px"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -777,6 +787,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
             }
           },
           "_params": {

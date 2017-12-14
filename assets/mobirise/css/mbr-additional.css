@@ -475,7 +475,7 @@ h6,
 }
 #header2-1 .mbr-section-text {
   text-align: center;
-  font-size: 25px;
+  font-size: 30px;
 }
 #header2-1 .mbr-section-title {
   text-align: center;
@@ -483,15 +483,15 @@ h6,
 }
 #header2-e .mbr-section-text {
   color: #000000;
-  font-size: 18px;
+  font-size: 21px;
 }
 #header2-e .mbr-section-title {
   color: #000000;
-  font-size: 60px;
+  font-size: 72px;
 }
 #features3-l H4 {
   color: #ffffff;
-  font-size: 36px;
+  font-size: 46px;
 }
 #features3-l P {
   color: #ffffff;
@@ -500,16 +500,25 @@ h6,
 #header2-6 .mbr-section-title {
   text-align: center;
   color: #000000;
-  font-size: 60px;
+  font-size: 72px;
 }
 #header2-6 .mbr-section-text {
-  font-size: 18px;
+  font-size: 21px;
   text-align: center;
   color: #000000;
+}
+#features3-j H4 {
+  font-size: 23px;
+}
+#features3-k H4 {
+  font-size: 23px;
 }
 #header3-g .mbr-section-title,
 #header3-g .mbr-section-subtitle {
   text-align: center;
+}
+#header3-g .mbr-section-title {
+  font-size: 60px;
 }
 #form1-2 .form-control-label {
   color: #232323;
