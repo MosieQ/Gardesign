@@ -833,7 +833,7 @@
           "form": {
             "action": "hubert@mosz.pl",
             "alerts": {
-              "success": "Dziękujemy za kontakt,\nZ chęcią zapoznamy się z Państwa wiadomością."
+              "success": "Dziękujemy za kontakt,\nZ chęcią zapoznamy się z Państwa wiadomością.\nFirma Gardesign"
             },
             "fields": {
               "name": {
@@ -867,11 +867,11 @@
               "color": "#232323"
             },
             "SMALL": {
-              "color": "#1a1919",
-              "font-size": "21px"
+              "color": "#ffffff",
+              "font-size": "25px"
             },
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "72px"
             }
           }
         },
