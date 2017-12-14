@@ -159,7 +159,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lawka-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lawka2-1400x938.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -220,7 +220,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/stocksnap-16oqmg8qfo-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-207962-1400x875.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -416,7 +416,7 @@
             }
           },
           "title": "USŁUGI",
-          "text": "Kompleksowe usługi ogrodnicze świaczone przez firmę Gardesign skierowane są do osób prywatnych oraz firm, chcących zadbać o obszary zieleni wokół domu czy biura, czy przykładowo na terenach miejskich.",
+          "text": "Kompleksowe usługi ogrodnicze świaczone przez firmę Gardesign skierowane są do osób prywatnych oraz firm, chcących zadbać o obszary zieleni wokół domu, biura czy przykładowo na terenach miejskich.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Czytaj dalej...</a>",
           "_tags": [
             "Theme"
