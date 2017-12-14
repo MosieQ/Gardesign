@@ -702,17 +702,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/23600931-1712664495465148-118845526-o-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/23600931-1712664495465148-118845526-o-1920x1080-800x450.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/23584977-1712664882131776-167513024-o-1202x800.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/23584977-1712664882131776-167513024-o-1202x800-800x532.jpg",
                 "alt": "",
@@ -724,8 +713,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/23627160-1712666502131614-480479375-o-998x800.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/23627160-1712666502131614-480479375-o-998x800-800x641.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-2454955-1920-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-2454955-1920-1920x1280-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -757,11 +746,22 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/flowers-2454955-1920-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/flowers-2454955-1920-1920x1280-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stocksnap-16oqmg8qfo-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stocksnap-16oqmg8qfo-2000x1125-800x450.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/23600931-1712664495465148-118845526-o-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23600931-1712664495465148-118845526-o-1920x1080-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
