@@ -462,7 +462,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/1-1-200x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -484,7 +484,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/3-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/3-1-200x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -580,7 +580,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/5-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/5-1-200x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -602,7 +602,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/altana-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/altnaka2-2-200x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
