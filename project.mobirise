@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 26,
+    "uniqCompNum": 27,
     "versionPublish": "4.4.0",
     "favicon": "@PROJECT_PATH@/assets/images/azalia-128x155.png",
     "noImageResize": "",
@@ -99,8 +99,8 @@
             }
           },
           "_params": {
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -115,7 +115,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/azalia-105x127.jpg",
+              "src": "@PROJECT_PATH@/assets/images/biae-logo-577x127.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -127,7 +127,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GARDESIGN.PL</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_tags": [
             "Theme"
           ],
@@ -141,7 +141,7 @@
             "showButtons": false,
             "inverse": false,
             "showArrow": true,
-            "imageSize": "42",
+            "imageSize": "46",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1622x1080.jpg",
             "parallax": true,
@@ -153,7 +153,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": 0.3
           },
           "media": {
             "image": {
@@ -165,7 +165,7 @@
               "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=KkRh3OkR5cI",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -183,15 +183,15 @@
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-1",
+          "_anchor": "header2-q",
           "_styles": {
-            ".mbr-section-text": {
-              "text-align": "center",
-              "font-size": "30px"
-            },
             ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "100px"
+              "font-size": "84px",
+              "text-align": "center"
+            },
+            ".mbr-section-text": {
+              "font-size": "30px",
+              "text-align": "center"
             }
           }
         },
@@ -461,7 +461,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image2-420x180.png",
+              "src": "@PROJECT_PATH@/assets/images/1-200x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -472,7 +472,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image1-420x180.png",
+              "src": "@PROJECT_PATH@/assets/images/2-200x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -483,7 +483,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image3-420x180.png",
+              "src": "@PROJECT_PATH@/assets/images/3-200x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -494,7 +494,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image1-420x180.png",
+              "src": "@PROJECT_PATH@/assets/images/4-200x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -579,7 +579,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image3-420x180.png",
+              "src": "@PROJECT_PATH@/assets/images/5-200x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -590,7 +590,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image2-420x180.png",
+              "src": "@PROJECT_PATH@/assets/images/6-200x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -601,7 +601,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image1-420x180.png",
+              "src": "@PROJECT_PATH@/assets/images/altana-200x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -612,7 +612,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image2-420x180.png",
+              "src": "@PROJECT_PATH@/assets/images/8-200x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -723,8 +723,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/flowers-2454955-1920-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/flowers-2454955-1920-1920x1280-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/the-pink-flowers-1635923-1920-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/the-pink-flowers-1635923-1920-1920x1280-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -734,19 +734,19 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kfiatki-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kfatek2-1920x1100.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kfatek2-1920x1100-800x458.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/rose-2721846-1920-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rose-2721846-1920-1920x1280-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/garden-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/garden-2000x1125-800x450.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -760,7 +760,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/stocksnap-16oqmg8qfo-2000x1125-800x450.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
