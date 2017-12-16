@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#af6161",
+        "primaryColor": "#c1c1c1",
         "secondaryColor": "#c1c1c1",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -960,12 +960,12 @@
           "_anchor": "contacts1-d",
           "_styles": {
             "STRONG": {
-              "color": "#d7b57d",
+              "color": "#c1c1c1",
               "font-size": "22px"
             },
             "P": {
               "text-align": "left",
-              "color": "#bfa06e",
+              "color": "#c1c1c1",
               "font-size": "18px"
             }
           }
