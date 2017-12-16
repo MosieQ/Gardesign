@@ -115,12 +115,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/biae-logo-577x127.png",
+              "src": "@PROJECT_PATH@/assets/images/gardesign-logo-551x128.png",
               "height": 128,
               "alt": "Main Page",
               "link": "#top",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
