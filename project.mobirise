@@ -100,7 +100,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -117,9 +117,10 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/biae-logo-577x127.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "alt": "Main Page",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
