@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#bfa06e",
+        "primaryColor": "#af6161",
         "secondaryColor": "#c1c1c1",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -26,7 +26,8 @@
         "#bfa06e",
         "#1a1919",
         "#121111",
-        "#d7b57d"
+        "#d7b57d",
+        "#af6161"
       ]
     },
     "versionFirst": "4.4.0",
@@ -933,7 +934,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/birds2-81x100.png",
+              "src": "@PROJECT_PATH@/assets/images/gardesign%20logo-128x29.png",
               "width": 128,
               "link": "",
               "alt": "",
