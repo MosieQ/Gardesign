@@ -96,7 +96,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#bfa06e!important"
+              "color": "#c1c1c1!important"
             }
           },
           "_params": {
@@ -831,7 +831,7 @@
             "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1622x1080.jpg",
             "parallax": true,
@@ -847,7 +847,7 @@
           "form": {
             "action": "hubert@mosz.pl",
             "alerts": {
-              "success": "Dziękujemy za kontakt,\nZ chęcią zapoznamy się z Państwa wiadomością.\nFirma Gardesign"
+              "success": "Dziękujemy za kontakt,\nZwykle odpowiadamy w ciągu 24 h.\nZespół Gardesign"
             },
             "fields": {
               "name": {
