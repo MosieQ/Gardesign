@@ -43,7 +43,7 @@
       "settings": {
         "main": true,
         "title": "Gardesign.pl",
-        "meta_descr": "Marzysz o pięknym ogrodzie? Masz pomysł, którego nie możesz samemu zrealizować? Firma Gardesign służy swoią wiedzą i doświadczeniem, by sprostać Twoim oczekiwaiom.",
+        "meta_descr": "Marzysz o pięknym ogrodzie? Masz pomysł, którego nie możesz zrealizować samemu? Firma Gardesign służy swoją wiedzą i doświadczeniem, by sprostać Twoim oczekiwaniom. Działamy na terenie Krakowa i okolic.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -417,7 +417,7 @@
             }
           },
           "title": "USŁUGI",
-          "text": "Kompleksowe usługi ogrodnicze świaczone przez firmę Gardesign skierowane są do osób prywatnych oraz firm, chcących zadbać o obszary zieleni wokół domu, biura czy przykładowo na terenach miejskich.",
+          "text": "Kompleksowe usługi ogrodnicze świaczone przez firmę Gardesign skierowane są do osób prywatnych oraz firm, chcących zadbać o obszary zieleni wokół domu, biura czy przykładowo na terenach miejskich.<br>Działamy na terenie Krakowa i okolic, lecz nic nie stoi na przeszkodzie w wykonaniu usługi w obrębie całego województwa małopolskiego.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Czytaj dalej...</a>",
           "_tags": [
             "Theme"
@@ -580,7 +580,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/5-1-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/5-3-200x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -602,7 +602,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/altnaka2-2-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/altnaka2-3-200x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -735,8 +735,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/kfatek2-1920x1088.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kfatek2-1920x1088-800x453.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kfatek2-1912x1088.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kfatek2-1912x1088-800x455.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
