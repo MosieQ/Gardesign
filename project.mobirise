@@ -810,8 +810,8 @@
         {
           "_params": {
             "googleMap": {
-              "address": "ul. Wolności 48/1A, 30-661 Kraków, Polska",
-              "placeId": "EiRXb2xub8WbY2kgNDgsIDMwLTY2MSBLcmFrw7N3LCBQb2xza2E",
+              "address": "ul. Wolności, Kraków, Polska",
+              "placeId": "ChIJLYP-5E9DFkcRbsvqgeFgunA",
               "state": "ok",
               "stateDetails": ""
             },
