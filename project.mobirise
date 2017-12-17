@@ -112,7 +112,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-e\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-6\" aria-expanded=\"false\">USŁUGI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery3-b\" aria-expanded=\"false\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-2\">Napisz do Nas!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-e\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-6\" aria-expanded=\"false\">USŁUGI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery3-b\" aria-expanded=\"false\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-2\">Napisz do nas!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -239,7 +239,7 @@
             }
           },
           "title": "O NAS",
-          "text": "Nasza firma to młody, energiczny zespół, dla którego każdy ogród jest nowym wyzwaniem, do którego podchodzimy indywidualnie, z pasją i przeświadczeniem o sukcesie. Posiadamy szeroką wiedzę w zakresie zakładania, renowacji, pielęgnacji i ochrony ogrodów przydomowych.",
+          "text": "Nasza firma to młody, energiczny zespół, dla którego każdy ogród jest nowym wyzwaniem. Podchodzimy do niego indywidualnie, z pasją i przeświadczeniem o sukcesie. Posiadamy szeroką wiedzę w zakresie zakładania, renowacji, pielęgnacji i ochrony ogrodów przydomowych.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Czytaj dalej...</a>",
           "_tags": [
             "Theme"
@@ -334,12 +334,12 @@
               "active": true
             }
           },
-          "title1": "Izabela Gawlik",
+          "title1": "Izabela",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Dyrektor ds. artystycznych",
-          "title2": "Hubert Mosz",
+          "caption1": "Specjalista ds. artystycznych",
+          "title2": "Hubert",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Dyrektor ds. technicznych",
+          "caption2": "Specjalista ds. technicznych",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -417,7 +417,7 @@
             }
           },
           "title": "USŁUGI",
-          "text": "Kompleksowe usługi ogrodnicze świaczone przez firmę Gardesign skierowane są do osób prywatnych oraz firm, chcących zadbać o obszary zieleni wokół domu, biura czy przykładowo na terenach miejskich.<br>Działamy na terenie Krakowa i okolic, lecz nic nie stoi na przeszkodzie w wykonaniu usługi w obrębie całego województwa małopolskiego.",
+          "text": "Kompleksowe usługi ogrodnicze świadczone przez firmę Gardesign skierowane są do osób prywatnych oraz firm, chcących zadbać o obszary zieleni wokół domu, biura czy przykładowo na terenach miejskich.<br>Działamy na terenie Krakowa i okolic, lecz nic nie stoi na przeszkodzie w wykonaniu usługi w obrębie całego województwa małopolskiego.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Czytaj dalej...</a>",
           "_tags": [
             "Theme"
@@ -799,7 +799,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "title": "Gdzie Nas znaleźć?",
+          "title": "Gdzie nas znaleźć?",
           "meta": "",
           "_tags": [
             "Theme"
@@ -841,8 +841,8 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.3"
           },
-          "title": "Napisz do Nas!",
-          "subtitle": "Służymy Naszą wiedzą i doświadczeniem",
+          "title": "Napisz do nas!",
+          "subtitle": "Służymy naszą wiedzą i doświadczeniem",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">WYŚLIJ</a>",
           "form": {
             "action": "hubert@mosz.pl",
@@ -950,9 +950,9 @@
               "active": true
             }
           },
-          "text1": "<strong><a href=\"index.html#map2-5\">Adres:</a></strong><br>ul. Wolności 48/1A<br>30-661, Kraków",
-          "text2": "<p><strong><a href=\"index.html#form1-2\">Kontakt:</a></strong><br>\nEmail: &nbsp;hubert@mosz.pl<br>\n&nbsp;&nbsp;&nbsp;&nbsp;Tel:&nbsp;&nbsp;+48 694-124-892<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +48 604-915-218<br></p>",
-          "text3": "<strong>Menu:</strong><br>\n<a class=\"text-primary\" href=\"#top\">Strona główna</a><br><a href=\"index.html#header2-e\">O Nas</a><br><a href=\"index.html#header2-6\">Usługi</a><br><a href=\"index.html#gallery3-b\">Galeria</a>",
+          "text1": "<strong><a href=\"index.html#map2-5\">Adres:</a></strong><br>ul. Wolności 48/1A<br>30-661 Kraków",
+          "text2": "<p><strong><a href=\"index.html#form1-2\">Kontakt:</a></strong><br>e-mail: &nbsp;hubert@mosz.pl<br>&nbsp; &nbsp; &nbsp;tel. +48 694-124-892<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +48 604-915-218<br></p>",
+          "text3": "<strong>Menu:</strong><br>\n<a class=\"text-primary\" href=\"#top\">Strona główna</a><br><a href=\"index.html#header2-e\">O nas</a><br><a href=\"index.html#header2-6\">Usługi</a><br><a href=\"index.html#gallery3-b\">Galeria</a>",
           "_tags": [
             "Theme"
           ],
