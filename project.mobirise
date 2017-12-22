@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#383838",
+        "#999999",
         "#f2f2f2",
         "#9e845b",
         "#bfa06e",
         "#1a1919",
-        "#121111",
-        "#d7b57d",
-        "#af6161"
+        "#121111"
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 27,
+    "uniqCompNum": 29,
     "versionPublish": "4.4.0",
     "favicon": "@PROJECT_PATH@/assets/images/logo-mae-ok-128x128.png",
     "noImageResize": "",
@@ -907,7 +907,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Podaj dalej ^^",
+          "text": "Podaj dalej",
           "_tags": [
             "Theme"
           ],
@@ -951,8 +951,8 @@
             }
           },
           "text1": "<strong><a href=\"index.html#map2-5\">Gdzie działamy:</a></strong><br>Kraków<br>i Małopolska",
-          "text2": "<p><strong><a href=\"index.html#form1-2\">Kontakt:</a></strong><br>e-mail: &nbsp;hubert@mosz.pl<br>&nbsp; &nbsp; &nbsp;tel. +48 694-124-892<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +48 604-915-218<br></p>",
-          "text3": "<strong>Menu:</strong><br>\n<a class=\"text-primary\" href=\"#top\">Strona główna</a><br><a href=\"index.html#header2-e\">O nas</a><br><a href=\"index.html#header2-6\">Usługi</a><br><a href=\"index.html#gallery3-b\">Galeria</a>",
+          "text2": "<p><strong><a href=\"index.html#form1-2\">Kontakt:</a></strong><br>e-mail: &nbsp;hubert@mosz.pl<br>&nbsp; &nbsp; &nbsp;tel. +48 694-124-892<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +48 604-915-218</p><br>",
+          "text3": "<strong>Menu:</strong><br>\n<a class=\"text-primary\" href=\"#top\">Strona główna</a><br><a href=\"index.html#header2-e\">O nas</a><br><a href=\"index.html#header2-6\">Usługi</a><br><a href=\"index.html#gallery3-b\">Galeria</a><br><a href=\"index.html#gallery3-b\">F</a>acebook",
           "_tags": [
             "Theme"
           ],
