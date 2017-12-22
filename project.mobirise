@@ -952,7 +952,7 @@
           },
           "text1": "<strong><a href=\"index.html#map2-5\">Gdzie działamy:</a></strong><br>Kraków<br>i Małopolska",
           "text2": "<p><strong><a href=\"index.html#form1-2\">Kontakt:</a></strong><br>e-mail: &nbsp;hubert@mosz.pl<br>&nbsp; &nbsp; &nbsp;tel. +48 694-124-892<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +48 604-915-218</p><br>",
-          "text3": "<strong>Menu:</strong><br>\n<a class=\"text-primary\" href=\"#top\">Strona główna</a><br><a href=\"index.html#header2-e\">O nas</a><br><a href=\"index.html#header2-6\">Usługi</a><br><a href=\"index.html#gallery3-b\">Galeria</a><br><a href=\"index.html#gallery3-b\">F</a>acebook",
+          "text3": "<strong>Menu:</strong><br>\n<a class=\"text-primary\" href=\"#top\">Strona główna</a><br><a href=\"index.html#header2-e\">O nas</a><br><a href=\"index.html#header2-6\">Usługi</a><br><a href=\"index.html#gallery3-b\">Galeria</a><br><a href=\"https://www.facebook.com/GardesignKrakow/\" target=\"_blank\">Facebook</a>",
           "_tags": [
             "Theme"
           ],
